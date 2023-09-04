@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3271bed-bee9-4959-88f9-f18e53c4b14a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearch2DArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/CRUD_Select.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/bin/.idea/bin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/bin/CRUD_Select.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/CRUD_Select.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/beans/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/test/DeleteRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/test/FetchCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/test/InsertRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRUD_Select/src/test/UpdateCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/CogentJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/ConcurrentHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/FinalizeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/HashMapExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/HashTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/LinkedHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/SalaryComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/SetExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/SetExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/SetExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/Sortable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/TreeHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/VectorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Collection/WeakHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/DeadLockSolution/DeadLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/AgeNonNegativeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Exception/UserNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Java11/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Java11/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Java11/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/Java11/StringEnhancement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/MultipleInheritance/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/MultipleInheritance/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/MultipleInheritance/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/MultipleInheritance/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/StringHandling/ConstantNonConstantPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/StringHandling/ImmutableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/inheritance/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/inheritance/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/inheritance/H.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/inheritance/OverloadingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/inheritance/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/basic/inheritance/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/cloneexample/Deletable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/cloneexample/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/cloneexample/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/cloneexample/ShapeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/cloneexample/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/CustomerDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/MyClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/MyStream1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/MyStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/MyStream3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/MyStream5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/java8/StreamAPI/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/methodreferences/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/methodreferences/CustomerDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/methodreferences/CustomerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/methodreferences/CustomerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/methodreferences/MethodReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/objectClassExample/MyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/optional/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/poly/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/poly/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/poly/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/poly/ChildAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/poly/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/poly/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/poly/TestAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/poly/TestAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/serialize/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/MyJoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/MyThread13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/MyThread15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/MyThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/MyThreadDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/MyThreadImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/MyThreadImpl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/MyThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/thread/YieldDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CogentJava/src/com/demo/wrapper/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/CustomerAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/NewStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/mapping/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/mapping/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/DeleteRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/Hql_UpdateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/InsertEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/InsertNewStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/OneToMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/OneToOneMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/SelectAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/SelectMultipleRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/SelectSingleRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/SelectUsingRestrictions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/SelectWithProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/oracle.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC67/JDBC67.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC67/src/Jdbcdemo/Testjdbc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC67/src/Jdbcdemo/Testjdbc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC67/src/Jdbcdemo/Testjdbc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC67/src/Jdbcdemo/Testjdbc4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMavenProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/src/main/java/com/demo/client/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/src/main/java/com/demo/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/src/main/java/com/demo/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/src/main/java/com/demo/spring/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/src/main/resources/Beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewMaven/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/SpringBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/src/Beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/src/Beans1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/src/com/demo/client/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/src/com/demo/client/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/src/com/demo/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/src/com/demo/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBasics/src/com/demo/model/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplateExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplateExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplateExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplateExample/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplateExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringJDBCTemplateExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DoubleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../QuestionsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SortingAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../StringsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/demo/kunal/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/demo/kunal/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/demo/kunal/SB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/demo/kunal/Trick/PatternSolve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/JavaTraining/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/JavaTraining/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/JavaTraining/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/JavaTraining/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/JavaTraining/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/JavaTraining/BinaryTreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/JavaTraining/Maps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/JavaTraining/MaxProfit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/JavaTraining/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/JavaTraining/TwoSum.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2UhtDyqy997r7c0wt4nzelTNSym" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/parth/Desktop/JavaTraining/CogenJava/HibernateMaven/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3271bed-bee9-4959-88f9-f18e53c4b14a" name="Changes" comment="" />
+      <created>1693403526962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693403526962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
